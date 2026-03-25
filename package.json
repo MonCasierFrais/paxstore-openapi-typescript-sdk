@@ -1,6 +1,6 @@
 {
   "name": "@moncasierfrais.fr/paxstore-openapi-sdk",
-  "version": "10.1.0",
+  "version": "10.1.2",
   "description": "PAXStore OpenAPI TypeScript SDK",
   "files": ["dist"],
   "main": "dist/index.js",
