@@ -1,0 +1,25 @@
+{
+  "name": "paxstore-openapi-sdk",
+  "version": "10.1.0",
+  "description": "PAXStore OpenAPI TypeScript SDK",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "paxstore",
+    "openapi",
+    "sdk",
+    "pax",
+    "typescript"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "typescript": "^5.9.3"
+  }
+}
